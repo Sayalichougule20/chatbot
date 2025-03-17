@@ -1,9 +1,10 @@
 
-librosa
 sounddevice
+pyaudio
 numpy
-pandas
-matplotlib
-tensorflow
 scipy
+librosa
+tensorflow
+matplotlib
+pandas
 streamlit
