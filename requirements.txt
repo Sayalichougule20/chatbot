@@ -1,10 +1,11 @@
 
-sounddevice
+streamlit
+speechrecognition
 pyaudio
+sounddevice
 numpy
 scipy
 librosa
 tensorflow
 matplotlib
 pandas
-streamlit
